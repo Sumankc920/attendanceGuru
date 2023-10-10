@@ -1,0 +1,50 @@
+{
+  "classId": 1,
+  "routine": [
+    {
+      "dayOfWeek": "SUNDAY",
+      "subjects": [
+        {
+          "subjectName": "EE",
+          "startTime": "07:00",
+          "endTime": "08:30"
+        },
+        {
+          "subjectName": "MMS",
+          "startTime": "8:30",
+          "endTime": "10:00"
+        },
+        {
+          "subjectName": "PPL",
+          "startTime": "10:40",
+          "endTime": "12:10"
+        },
+        {
+          "subjectName": "OOSD",
+          "startTime": "12:10",
+          "endTime": "13:40"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "MONDAY",
+      "subjects": [
+        {
+          "subjectName": "CN",
+          "startTime": "07:00",
+          "endTime": "08:30"
+        },
+        {
+          "subjectName": "MMS",
+          "startTime": "8:30",
+          "endTime": "10:00"
+        },
+        {
+          "subjectName": "EE",
+          "startTime": "10:40",
+          "endTime": "12:10"
+        }
+      ]
+    }
+  ]
+}
